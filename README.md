@@ -1,5 +1,4 @@
-Amateur hobby project
-Transform your smartphone into an autonomous boat drone navigation system
+The amateur hobby project how to transform your smartphone into an autonomous boat drone navigation system
 
 Project Overview
 
@@ -12,11 +11,16 @@ and autonomous navigation applications.
 
 Project Goals
 
-Proof of concept : Using smartphone as boat autopilot brain
-Educational purpose : Learning autonomous navigation principles
-Open source : Sharing knowledge with maker community
-Affordable : Building advanced system with consumer components
-Modular : Easy to adapt for different boat types and sizes
+- Proof of concept : Using smartphone as boat autopilot brain
+
+- Educational purpose : Learning autonomous navigation principles
+
+- Open source : Sharing knowledge with maker community
+
+- Affordable : Building advanced system with consumer components
+
+- Modular : Easy to adapt for different boat types and sizes
+
 
 Key Achievements
 
