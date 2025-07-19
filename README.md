@@ -1,5 +1,5 @@
 Amateur hobby project
-Transform your smartphone into an autonomous boat drone navigationsystem
+Transform your smartphone into an autonomous boat drone navigation system
 
 Project Overview
 
