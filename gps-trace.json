@@ -1,0 +1,28 @@
+{
+  "route_name": "Тестовый маршрут",
+  "waypoints": [
+    {
+      "lat": 55.7558,
+      "lon": 37.6176,
+      "speed": 50,
+      "action": "navigate"
+    },
+    {
+      "lat": 55.7539,
+      "lon": 37.6208,
+      "speed": 30,
+      "action": "photo"
+    },
+    {
+      "lat": 55.7520,
+      "lon": 37.6175,
+      "speed": 80,
+      "action": "return_home"
+    }
+  ],
+  "safety_settings": {
+    "max_distance_from_home": 1000,
+    "low_battery_return": 20,
+    "max_speed": 100
+  }
+}

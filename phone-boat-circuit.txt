@@ -1,0 +1,26 @@
+Samsung S21 Ultra
+    ↓ USB-C OTG Cable
+Arduino Mega 2560
+    ├── Pin 9 → ESC Signal (PWM)
+    ├── Pin 10 → Servo Rudder Signal (PWM)
+    ├── Pin 2 → Emergency Stop Button
+    ├── Pin 13 → Status LED
+    ├── Pin A0 → Battery Voltage Monitor
+    ├── 5V → Servo Power
+    └── GND → Common Ground
+
+ESC (Electronic Speed Controller)
+    ├── Signal ← Arduino Pin 9
+    ├── + → Battery + (11.1V 3S LiPo)
+    ├── - → Battery - / Common GND
+    └── Motor Wires → Brushless Motor
+
+Servo MG995 (Rudder)
+    ├── Signal ← Arduino Pin 10
+    ├── + → 5V (Arduino/separate BEC)
+    └── - → GND
+
+Power Distribution:
+    ├── 3S LiPo 11.1V → ESC → Motor
+    ├── 5V BEC → Arduino + Servo
+    └── USB Powerbank → Samsung S21 Ultra

@@ -1,0 +1,5 @@
+Samsung S21 Ultra (Мозг)
+    ↓ USB-C / Bluetooth
+Arduino/ESP32 (Контроллер)
+    ↓ PWM/Servo
+Моторы и сервоприводы
